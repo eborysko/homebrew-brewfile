@@ -1,3 +1,5 @@
+# Add MAS incase runs before Workbrew Defaults
+brew "mas" 
 
 # Mac App Store
 mas '1Password for Safari', id: 1569813296

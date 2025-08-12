@@ -14,3 +14,4 @@ mas 'stts', id: 1187772509
 mas 'DuckDuckGo Browser, Search, AI', id: 663592361
 mas 'DuckDuckGo Privacy for Safari', id: 1482920575
 mas 'WireGuard', id: 1451685025
+mas 'Perplexity: Ask Anything', id: 6714467650
